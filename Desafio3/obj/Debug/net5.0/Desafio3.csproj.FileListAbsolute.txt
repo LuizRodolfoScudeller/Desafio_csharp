@@ -1,0 +1,16 @@
+E:\DesafiosC#\desafio3\bin\Debug\net5.0\Desafio3.exe
+E:\DesafiosC#\desafio3\bin\Debug\net5.0\Desafio3.deps.json
+E:\DesafiosC#\desafio3\bin\Debug\net5.0\Desafio3.runtimeconfig.json
+E:\DesafiosC#\desafio3\bin\Debug\net5.0\Desafio3.runtimeconfig.dev.json
+E:\DesafiosC#\desafio3\bin\Debug\net5.0\Desafio3.dll
+E:\DesafiosC#\desafio3\bin\Debug\net5.0\ref\Desafio3.dll
+E:\DesafiosC#\desafio3\bin\Debug\net5.0\Desafio3.pdb
+E:\DesafiosC#\desafio3\obj\Debug\net5.0\Desafio3.csprojAssemblyReference.cache
+E:\DesafiosC#\desafio3\obj\Debug\net5.0\Desafio3.GeneratedMSBuildEditorConfig.editorconfig
+E:\DesafiosC#\desafio3\obj\Debug\net5.0\Desafio3.AssemblyInfoInputs.cache
+E:\DesafiosC#\desafio3\obj\Debug\net5.0\Desafio3.AssemblyInfo.cs
+E:\DesafiosC#\desafio3\obj\Debug\net5.0\Desafio3.csproj.CoreCompileInputs.cache
+E:\DesafiosC#\desafio3\obj\Debug\net5.0\Desafio3.dll
+E:\DesafiosC#\desafio3\obj\Debug\net5.0\ref\Desafio3.dll
+E:\DesafiosC#\desafio3\obj\Debug\net5.0\Desafio3.pdb
+E:\DesafiosC#\desafio3\obj\Debug\net5.0\Desafio3.genruntimeconfig.cache
